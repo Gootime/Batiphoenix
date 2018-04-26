@@ -1,0 +1,113 @@
+body{
+	font-family: 'Freeroad' !important;
+	background: #F5F5F5 !important;
+}
+
+.hidden{
+	display: none;
+}
+
+a, a:visited, a:link, a:active{
+	text-decoration: none !important;
+	border: none !important;
+}
+
+.centersite{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.br{
+	margin-bottom: 29px;
+}
+
+::-webkit-input-placeholder {
+	font-style: italic;
+}
+
+:-moz-placeholder {
+   font-style: italic;
+}
+
+::-moz-placeholder {
+   font-style: italic;
+}
+
+:-ms-input-placeholder {
+   font-style: italic;
+}
+
+#firstsection{
+    padding-bottom: 54px;
+    height: 60px;
+    border-bottom: 2px solid #ccc;
+    box-shadow: 0 11px 19px -19px black;
+    background: white none repeat scroll 0 0;
+    position: fixed;
+    width: 100%;
+    z-index: 200;
+}
+
+#logo{
+	width: 60px;
+	padding: 2px 5px 0;
+}
+
+#searchicon{
+	padding-top: 15px;
+	padding-right: 5px;
+    vertical-align: -4px;
+}
+
+#searchbarform{
+	display: inline;
+}
+
+#menu{
+	font-size: 19px;
+	text-align: center;
+	float: right;
+	color: #99AE42;
+	width: 1000px;
+}
+
+.itemmenu{
+	display: inline-block;
+	text-decoration: none;
+	padding-top: 16px;
+	text-transform: uppercase;
+	margin: 0 2%;
+	height: 57px;
+}
+
+.navbarlinks{
+	color: #99ae42;
+}
+
+.navbarlinks:hover{
+	color: #bdbdbd;
+}
+
+.itemmenubutton{
+    border: medium none;
+    border-radius: 16px;
+    display: inline;
+    font-size: 15px;
+    padding: 5px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #99AE42;
+}
+
+#signin{
+	background: #fff;
+}
+
+#signup{
+	background: #99AE42;
+	color: #fff
+}
+
+#takespaceundernavbar{
+	height: 58px;
+}
